@@ -1,4 +1,4 @@
-# AI / ML — Module 1 Notes
+# AI / ML — Video1 - Module 1 Notes
 
 ## 1. AI, ML and DL
 

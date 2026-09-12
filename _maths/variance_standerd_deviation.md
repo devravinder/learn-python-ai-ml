@@ -484,3 +484,16 @@ STANDARD DEVIATION
 ```
 
 > Standard deviation is a measure of how spread out the data is around its mean.
+
+### Standard Deviation Formula
+
+$$
+\sigma = \sqrt{\frac{1}{N}\sum_{i=1}^{N}(x_i-\mu)^2}
+$$
+
+Where:
+
+- `σ` = Standard deviation
+- `N` = Number of data points
+- `xᵢ` = Individual data point
+- `μ` = Mean

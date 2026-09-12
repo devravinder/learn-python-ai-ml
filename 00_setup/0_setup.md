@@ -35,6 +35,9 @@
   - Note:-
     - to deactive venv ( after this usage ): `deactivate`
 
+- datasets
+  - download datasets from Kaggle & keep them under `python/datasets`
+
 ### Installing Packages / libs
 
 - to install from file: `pip install -r ./learn-python-ai-ml/requirements.txt`
@@ -93,7 +96,7 @@
 - to uninstall: `pip uninstall requests`
 - to see installed libs: `pip list`
 - to see installed libs exact version: `pip freeze`
-- to save installed libs exact version to a file: `pip freeze`
+- to save installed libs exact version to a file: `pip freeze > requirements.txt`
 - to install from file: `pip install -r requirements.txt`
 
 ## Observations
@@ -119,6 +122,11 @@
      ```
 
   - restart
+
+- always restart `restart` Jupyter kernal after selecting a kernal in `ipynb`
+
+- if restarting kernal is taking more time
+  - disable & enable Jupyter VSC extention
 
 - to diasbale auto venv activation in a new terminal in VSC, add the below line in settings.json
 

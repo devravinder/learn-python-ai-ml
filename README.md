@@ -11,7 +11,7 @@
 - `matplotlib` - to create charts and diagrams
 - `seaborn` - to create statistical and attractive visualizations
 - `scikit-learn (sklearn)` - to build and evaluate machine learning models
-- `nltk` - to process and analyze natural language/text
+- `nltk` - to process and analyze natural language/text ( natural language tool kit )
 
 ## Reference
 
