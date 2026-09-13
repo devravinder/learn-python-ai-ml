@@ -9,7 +9,7 @@
   - As price increases, demand decreases → `negative correlation`
   - No clear relationship → `no correlation`
 
-## Central Tendencies ( Avg / Mean, Mode, Media )
+## Central Tendencies ( Avg / Mean, Median, Mode )
 
 - `Mean / Average` → Sum of all values ÷ Number of values
   - Example: `10, 20, 30`
@@ -37,7 +37,7 @@
 - [Refer Doc](./2_handling_missing_data.md)
 - [Example Code](./notebooks/4.3.Handling_Missing_Values.ipynb)
 
-## [Data Standerdization]
+## Data Standerdization
 
 - converting numerical data to a common scale with Mean = 0 and Standard Deviation = 1.
 
