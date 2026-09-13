@@ -123,3 +123,15 @@ example: actor, actress, acting --> act
 ## Text Data Pre-Processiong
 
 - [Example Code - Text Data Pre-Processing for Fake News Data](./notebooks/4.10.Text_Data_Pre_Processing_Use_Case.ipynb)
+
+## Overfitting & Underfitting
+
+```text
+Underfitting → Model didn't learn enough. Low accuracy on both train & test/unseen data
+
+Overfitting  → Model learned too much from training data. High accuracy on Train data but low on test/unseen data.
+
+Good fit     → Model learned the important patterns and works well on new/unseen data.
+```
+
+- [Refer Doc](./8_overfitting_underfitting.md)
