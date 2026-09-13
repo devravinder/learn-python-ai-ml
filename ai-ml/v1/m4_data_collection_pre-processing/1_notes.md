@@ -135,3 +135,9 @@ Good fit     → Model learned the important patterns and works well on new/unse
 ```
 
 - [Refer Doc](./8_overfitting_underfitting.md)
+
+## Data Collection Sources
+
+- [Kaggle](https://www.kaggle.com)
+- [UCI ML Repository](https://archive.ics.uci.edu/)
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
