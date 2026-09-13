@@ -23,7 +23,7 @@
 - create Virtual ENV : `python -m venv .venv`
   - run inside `python` workspace folder
 
-- activate Virtual ENV : `source .venv/bin/activate` or `.venv\Scripts\activate.bat`
+- `activate Virtual ENV` : `source .venv/bin/activate` or `.venv\Scripts\activate.bat`
   - run inside `python` workspace folder
   - General-purpose Python environment
     - later we can use project level venv with uv package manager
