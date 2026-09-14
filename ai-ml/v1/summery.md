@@ -19,6 +19,10 @@ The course concludes with three hands-on projects:
 2. **Diabetes Prediction (9:35:35):** Using the *Pima Diabetes* dataset to predict health outcomes.
 3. **Spam Mail Prediction (10:38:53):** A textual analysis project to identify spam emails.
 
-## Data
+## Reference
 
 * [Data Sets](https://drive.google.com/drive/folders/1ES0Xw1FVZL_L56REdeJysX6HcbEIjU1j?usp=drive_link)
+
+* [Video-1](https://www.youtube.com/watch?v=LcWFedjaR4Q&list=PLfFghEzKVmjvII5ZcBnFWQOUjtUVdDnmo)
+  * [Notes](https://github.com/siddhardhan23/Complete-Machine-Learning-Course-Part-1)
+  
